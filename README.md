@@ -1,4 +1,4 @@
-# NorthernNomadHouse #
+# NorthernNomadHouse 4<sup>th</sup> Year Project #
 
 <h3>Meeting#1 Friday, September 14th (12:30 pm to 2:30 pm) Topics: </h3>
 
