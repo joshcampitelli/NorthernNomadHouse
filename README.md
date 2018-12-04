@@ -12,6 +12,7 @@
    - **Dehumidifiers:** used to harvest water from exterior.
    
  - Determine which devices in the house are IOT devices and which ones need to be ported to the Home Assistant Software.
+ - Use Home Assistant to determine whether the house reaches it's Net Zero Energy & Water consumption goals.
 
 <h3>Meeting#2 Thursday, October 11th (2:30 pm to 4:00 pm) Topics:</h3>
 
