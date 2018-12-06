@@ -33,5 +33,7 @@
    - Smoke Alarm/Carbon Monoxide Sensors
    - Security Cameras
    - Motion Detectors
+   - Window/Door Contact Sensors
+   - Philips Hue Lights (or other similar product)
 
 <h3>Meeting#7 Tuesday, December 4th (1:30 pm to 2:00 pm) Topics:</h3>
