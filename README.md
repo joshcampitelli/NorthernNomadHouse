@@ -26,4 +26,12 @@
 
 <h3>Meeting#6 Tuesday, November 27th (1:30 pm to 2:00 pm) Topics:</h3>
 
+ - Discuss possible changes for the project after learning on Sunday that the house does not have power due to code compliance issues.
+ 
+ - Possibly buying several **IOT devices** & connecting to Home Assistant (proof of concept):
+   - Temperature/Humidity Sensors
+   - Smoke Alarm/Carbon Monoxide Sensors
+   - Security Cameras
+   - Motion Detectors
+
 <h3>Meeting#7 Tuesday, December 4th (1:30 pm to 2:00 pm) Topics:</h3>
