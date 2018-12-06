@@ -16,8 +16,14 @@
 
 <h3>Meeting#2 Thursday, October 11th (2:30 pm to 4:00 pm) Topics:</h3>
 
+ - 
+
 <h3>Meeting#3 Tuesday, November 6th (1:30 pm to 2:15 pm) Topics:</h3>
 
 <h3>Meeting#4 Tuesday, November 13th (1:30 pm to 2:00 pm) Topics:</h3>
 
 <h3>Meeting#5 Tuesday, November 20th (1:30 pm to 2:00 pm) Topics:</h3>
+
+<h3>Meeting#6 Tuesday, November 27th (1:30 pm to 2:00 pm) Topics:</h3>
+
+<h3>Meeting#7 Tuesday, December 4th (1:30 pm to 2:00 pm) Topics:</h3>
