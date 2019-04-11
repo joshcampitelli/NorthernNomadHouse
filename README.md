@@ -15,7 +15,7 @@ This is a list of the devices in the housem includes the devices that were **sup
   
 **Installed but not Compatible/Reqiures Internet**
 - Data loggers
-  - BIG analytics software
+- BIG analytics software
 - EcoBEE
 - Wink
 - Amazon Alexa
