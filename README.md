@@ -34,4 +34,4 @@ This is a list of the devices in the housem includes the devices that were **sup
 - Water reclamation system
 - Window sensors
 
-![](https://github.com/joshcampitelli/NorthernNomadHouse/blob/readmeRevisions/docs/full%20house%20diagram.png)
+![](https://github.com/joshcampitelli/NorthernNomadHouse/blob/master/docs/full%20house%20diagram.png)
