@@ -6,7 +6,7 @@ The Northern Nomad Tiny House proect is a fourth-year capstone project that set 
 The team of Josh Campitelli, Ryan Ribeiro, and Arsalan Sadiq worked on the systems integration for the house for the 2018 - 2019 school year.
 
 <h3>Devices</h3>
-This is a list of the devices in the house. This includes the devices that were **supposed** to be installed before the project began and the devices that were installed but not functional. You can refer to the diagram below for a visual guide.</br>
+This is a list of the devices in the house. This includes the devices that were **supposed** to be installed before the project began and the devices that were installed but not functional. You can refer to the diagram below for a visual guide.</br></br>
 
 **Installed and Operational**
 - Philips Hue Bulbs
