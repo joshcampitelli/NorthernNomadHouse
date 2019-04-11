@@ -13,21 +13,24 @@ This is a list of the devices in the housem includes the devices that were **sup
 - Smart door lock
 - Wall temperature/humidity sensors
   
-**Installed but not Compatible**
+**Installed but not Compatible/Reqiures Internet**
 - Data loggers
   - BIG analytics software
 - EcoBEE
 - Wink
+- Amazon Alexa
+- Google Home mini
 
 **Installed but not Operational**
 - Solar panels
 - Tesla batteries
 - Water tanks
+- Dehumidifiers
 
 **Not Installed**
 - Solar panel system hub
 - Battery management system
-- Energy monitoring system
+- Energy monitoring system (TED)
 - Water reclamation system
 - Window sensors
 
